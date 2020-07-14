@@ -1,14 +1,61 @@
-﻿{
-  "label": "Amy's Picks",
-  "description": "Staff Picks",
-  "isbns": [
- "9781616205041",
-"9781501160769",
-"9781501154829",
-"9781455561780",
-"9780385541404",
-"9780062563668",
-"9780062460226"
-
-  ]
+{
+    "label": "Amy's Picks",
+    "description": "July and August Staff Picks",
+    "list": 
+  [
+{
+"label":"Ashford Affair",
+"isbns": [
+"9781410457141",
+"9781250014498"
+]
+},
+{
+"label":"Colony",
+"isbns": [
+"9780061099700",
+"9780060179335",
+"9780816156153"
+]
+},
+{
+"label":"Ice Chorus",
+"isbns": [
+"9780316815550"
+]
+},
+{
+"label":"Julie and Romeo",
+"isbns": [
+"9780451409973"
+]
+},
+{
+"label":"Kommandants Girl",
+"isbns": [
+"9780778323426",
+"9781602850163"
+]
+},
+{
+"label":"Prodigal Summer",
+"isbns": [
+"9780788771828",
+"9780060199654"
+]
+},
+{
+"label":"Queen by Right",
+"isbns": [
+"9781416550471"
+]
+},
+{
+"label":"Sixteen Pleasures",
+"isbns": [
+"9781569470060",
+"9780385314695"
+]
+}
+]
 }
