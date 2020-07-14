@@ -1,12 +1,55 @@
-﻿{
-  "label": "Alexa's Picks",
-  "description": "March Staff Picks",
-  "isbns": [
-"9780307887436",
-"9781400068326",
-"9781481432542",
-"9781484763803",
-"9780316438964",
-"9781250237323"
-  ]
+{
+    "label": "Alexa's Picks",
+    "description": "July and August Staff Picks",
+    "list": 
+  [
+{
+"label":"Clap When You Land",
+"isbns": [
+"9780062882769",
+"9780062882783",
+"9780062882783",
+"9780063011816",
+"9780063011816",
+"9780063011823"
+]
+},
+{
+"label":"Con Quest",
+"isbns": [
+"9781250791870"
+]
+},
+{
+"label":"Not That Kind of Guy",
+"isbns": [
+"9781984802705"
+]
+},
+{
+"label":"Only Mostly Devastated",
+"isbns": [
+"9781250315892"
+]
+},
+{
+"label":"So You Want to Talk About Race",
+"isbns": [
+"9781580058827",
+"9781538475317",
+"9781580056779",
+"9781538475270",
+"9781580057561"
+]
+},
+{
+"label":"Stamped: Racism, Antiracism, and You",
+"isbns": [
+"9781549184482",
+"9780316453677",
+"9780316453677",
+"9780316453691"
+]
+}
+]
 }
