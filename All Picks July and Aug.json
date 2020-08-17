@@ -15,25 +15,25 @@
 ]
 },
 {
-"label":"Con Quest",
+"label":"Con Quest: Alexa's Pick",
 "isbns": [
 "9781250791870"
 ]
 },
 {
-"label":"Not That Kind of Guy",
+"label":"Not That Kind of Guy: Alexa's Pick",
 "isbns": [
 "9781984802705"
 ]
 },
 {
-"label":"Only Mostly Devastated",
+"label":"Only Mostly Devastated: Alexa's Pick",
 "isbns": [
 "9781250315892"
 ]
 },
 {
-"label":"So You Want to Talk About Race",
+"label":"So You Want to Talk About Race: Alexa's Pick",
 "isbns": [
 "9781580058827",
 "9781538475317",
@@ -43,7 +43,7 @@
 ]
 },
 {
-"label":"Stamped: Racism, Antiracism, and You",
+"label":"Stamped: Racism, Antiracism, and You: Alexa's Pick",
 "isbns": [
 "9781549184482",
 "9780316453677",
@@ -52,14 +52,14 @@
 ]
 },
 {
-"label":"Ashford Affair",
+"label":"Ashford Affair: Amy's Pick",
 "isbns": [
 "9781410457141",
 "9781250014498"
 ]
 },
 {
-"label":"Colony",
+"label":"Colony: Amy's Pick",
 "isbns": [
 "9780061099700",
 "9780060179335",
@@ -67,46 +67,46 @@
 ]
 },
 {
-"label":"Ice Chorus",
+"label":"Ice Chorus: Amy's Pick",
 "isbns": [
 "9780316815550"
 ]
 },
 {
-"label":"Julie and Romeo",
+"label":"Julie and Romeo: Amy's Pick",
 "isbns": [
 "9780451409973"
 ]
 },
 {
-"label":"Kommandants Girl",
+"label":"Kommandants Girl: Amy's Pick",
 "isbns": [
 "9780778323426",
 "9781602850163"
 ]
 },
 {
-"label":"Prodigal Summer",
+"label":"Prodigal Summer: Amy's Pick",
 "isbns": [
 "9780788771828",
 "9780060199654"
 ]
 },
 {
-"label":"Queen by Right",
+"label":"Queen by Right: Amy's Pick",
 "isbns": [
 "9781416550471"
 ]
 },
 {
-"label":"Sixteen Pleasures",
+"label":"Sixteen Pleasures: Amy's Pick",
 "isbns": [
 "9781569470060",
 "9780385314695"
 ]
 },
 {
-"label":"How to be an Antiracist",
+"label":"How to be an Antiracist: Angela's Pick",
 "isbns": [
 "9780525509288",
 "9780525509295",
@@ -116,7 +116,7 @@
 ]
 },
 {
-"label":"Immortal Life of Henrietta Lacks",
+"label":"Immortal Life of Henrietta Lacks: Angela's Pick",
 "isbns": [
 "9780307712516",
 "9780307589385",
@@ -125,20 +125,20 @@
 ]
 },
 {
-"label":"Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong",
+"label":"Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong: Angela's Pick",
 "isbns": [
 "9780743296281"
 ]
 },
 {
-"label":"A People's History of the United States",
+"label":"A People's History of the United States: Angela's Pick",
 "isbns": [
 "9780060838652",
 "9780061968358"
 ]
 },
 {
-"label":"The Underground Railroad",
+"label":"The Underground Railroad: Angela's Pick",
 "isbns": [
 "9781524736255",
 "9781524736262",
@@ -147,14 +147,14 @@
 ]
 },
 {
-"label":"All the Flowers in Paris",
+"label":"All the Flowers in Paris: Carole & Sara M's Pick",
 "isbns": [
 "9781101885055",
 "9781643583471"
 ]
 },
 {
-"label":"Avalon Ladies Scrapbooking Society",
+"label":"Avalon Ladies Scrapbooking Society: Carole's Pick",
 "isbns": [
 "9781452612577",
 "9781611737349",
@@ -164,7 +164,7 @@
 ]
 },
 {
-"label":"Book of Joy",
+"label":"Book of Joy: Carole's Pick",
 "isbns": [
 "9780399185069",
 "9780399185069",
@@ -176,14 +176,14 @@
 ]
 },
 {
-"label":"The Dressmaker of Khair Khana",
+"label":"The Dressmaker of Khair Khana: Carole's Pick",
 "isbns": [
 "9780062027450",
 "9780061732379"
 ]
 },
 {
-"label":"The Family Upstairs",
+"label":"The Family Upstairs: Carole's Pick",
 "isbns": [
 "9781501190100",
 "9781432871307",
@@ -194,7 +194,7 @@
 ]
 },
 {
-"label":"Hillbilly Elegy",
+"label":"Hillbilly Elegy: Carole's Pick",
 "isbns": [
 "9780062872258",
 "9780062300560",
@@ -210,7 +210,7 @@
 ]
 },
 {
-"label":"Lost and Found Bookshop",
+"label":"Lost and Found Bookshop: Carole's Pick",
 "isbns": [
 "9780062914095",
 "9780062999894",
@@ -218,7 +218,7 @@
 ]
 },
 {
-"label":"The Ballad of Songbirds and Snakes",
+"label":"The Ballad of Songbirds and Snakes: Jane's Pick",
 "isbns": [
 "9781338635171",
 "9781338635188",
@@ -228,7 +228,7 @@
 ]
 },
 {
-"label":"The End of October",
+"label":"The End of October": Jane's Pick,
 "isbns": [
 "9780525658665",
 "9780525658658",
@@ -238,7 +238,7 @@
 ]
 },
 {
-"label":"The Family Upstairs",
+"label":"The Family Upstairs: Jane's Pick",
 "isbns": [
 "9781501190100",
 "9781432871307",
@@ -249,7 +249,7 @@
 ]
 },
 {
-"label":"The Flight Attendant",
+"label":"The Flight Attendant: Jane's Pick",
 "isbns": [
 "9780525528104",
 "9780385542425",
@@ -262,7 +262,7 @@
 ]
 },
 {
-"label":"Have You Seen Me?",
+"label":"Have You Seen Me?: Jane's Pick",
 "isbns": [
 "9780062747488",
 "9780062989147",
@@ -272,7 +272,7 @@
 ]
 },
 {
-"label":"Hit Makers: The Science of Popularity in an Age of Distraction",
+"label":"Hit Makers: The Science of Popularity in an Age of Distraction: Jane's Pick",
 "isbns": [
 "9781101980347",
 "9781101980323",
@@ -281,20 +281,20 @@
 ]
 },
 {
-"label":"Information Wars",
+"label":"Information Wars: Jane's Pick",
 "isbns": [
 "9780802147998",
 "9780802147981"
 ]
 },
 {
-"label":"Never Split the Difference",
+"label":"Never Split the Difference: Jane's Pick",
 "isbns": [
 "9780062407801"
 ]
 },
 {
-"label":"The Authenticity Project",
+"label":"The Authenticity Project: Lisa C's Pick",
 "isbns": [
 "9781984878618",
 "9780593166031",
@@ -303,7 +303,7 @@
 ]
 },
 {
-"label":"The Nest",
+"label":"The Nest: Lisa C's Pick",
 "isbns": [
 "9780062414212",
 "9780062443830",
@@ -315,7 +315,7 @@
 ]
 },
 {
-"label":"Red at the Bone",
+"label":"Red at the Bone: Lisa C's Pick",
 "isbns": [
 "9780593152256",
 "9780525535294",
@@ -326,14 +326,14 @@
 ]
 },
 {
-"label":"The Taste of Salt",
+"label":"The Taste of Salt: Lisa C's Pick",
 "isbns": [
 "9781565129252",
 "9781616201159"
 ]
 },
 {
-"label":"Women Rowing North",
+"label":"Women Rowing North: Lisa C's Pick",
 "isbns": [
 "9781632869623",
 "9781632869609",
@@ -342,7 +342,7 @@
 ]
 },
 {
-"label":"Educated: a memoir",
+"label":"Educated: a memoir: Lisa W's Pick",
 "isbns": [
 "9780399590504",
 "9780399590511",
@@ -356,14 +356,14 @@
 ]
 },
 {
-"label":"The Martha Manual: How to do (Almost) Everything",
+"label":"The Martha Manual: How to do (Almost) Everything: Lisa W's Pick",
 "isbns": [
 "9781328927323",
 "9781328927330"
 ]
 },
 {
-"label":"Untamed",
+"label":"Untamed: Lisa W's Pick",
 "isbns": [
 "9781984801258",
 "9780593209738",
@@ -374,7 +374,7 @@
 ]
 },
 {
-"label":"The Water Dancer",
+"label":"The Water Dancer: Lisa W's Pick",
 "isbns": [
 "9780525494843",
 "9780399590597",
@@ -386,7 +386,7 @@
 ]
 },
 {
-"label":"Where the Crawdads Sing",
+"label":"Where the Crawdads Sing: Lisa W's Pick",
 "isbns": [
 "9780593105412",
 "9781987162998",
@@ -400,7 +400,7 @@
 ]
 },
 {
-"label":"Bowlaway: a novel",
+"label":"Bowlaway: a novel: Peg's Pick",
 "isbns": [
 "9780062862877",
 "9781982606909",
@@ -410,7 +410,7 @@
 ]
 },
 {
-"label":"Cilka's Journey",
+"label":"Cilka's Journey: Peg's Pick",
 "isbns": [
 "9781250265708",
 "9781250265999",
@@ -422,7 +422,7 @@
 ]
 },
 {
-"label":"Commonwealth",
+"label":"Commonwealth: Peg's Pick",
 "isbns": [
 "9780062491817",
 "9780062561718",
@@ -434,7 +434,7 @@
 ]
 },
 {
-"label":"The Dry",
+"label":"The Dry: Peg's Pick",
 "isbns": [
 "9781250105615",
 "9781250105608",
@@ -446,13 +446,13 @@
 ]
 },
 {
-"label":"A Sister in My House",
+"label":"A Sister in My House: Peg's Pick",
 "isbns": [
 "9780143131694"
 ]
 },
 {
-"label":"Sweetbitter: a novel",
+"label":"Sweetbitter: a novel : Peg's Pick",
 "isbns": [
 "9781101875957",
 "9781410493439",
@@ -463,13 +463,13 @@
 ]
 },
 {
-"label":"The African-American Century",
+"label":"The African-American Century: Raquel's Pick",
 "isbns": [
 "9780684864143"
 ]
 },
 {
-"label":"The Andromeda Evolution",
+"label":"The Andromeda Evolution: Raquel's Pick",
 "isbns": [
 "9780062473288",
 "9780062473318",
@@ -479,7 +479,7 @@
 ]
 },
 {
-"label":"Crooked River",
+"label":"Crooked River: Raquel's Pick",
 "isbns": [
 "9781538747254",
 "9781549130489",
@@ -489,7 +489,7 @@
 ]
 },
 {
-"label":"Never Have I Ever",
+"label":"Never Have I Ever: Raquel's Pick",
 "isbns": [
 "9780062933546",
 "9780062855336",
@@ -498,7 +498,7 @@
 ]
 },
 {
-"label":"Party of Two",
+"label":"Party of Two: Raquel's Pick",
 "isbns": [
 "9780593100813",
 "9780593100837",
@@ -507,7 +507,7 @@
 ]
 },
 {
-"label":"Red, White, & Royal Blue",
+"label":"Red, White, & Royal Blue: Raquel's Pick",
 "isbns": [
 "9781250233950",
 "9781250316783",
@@ -515,26 +515,26 @@
 ]
 },
 {
-"label":"You've Been Volunteered: A Class Mom",
+"label":"You've Been Volunteered: A Class Mom: Raquel's Pick",
 "isbns": [
 "9781250301857",
 "9781250224071"
 ]
 },
 {
-"label":"Eat at Home Tonight",
+"label":"Eat at Home Tonight: Sarah L's Pick",
 "isbns": [
 "9780735291232"
 ]
 },
 {
-"label":"Last Anniversary",
+"label":"Last Anniversary: Sarah L's Pick",
 "isbns": [
 "9780060890681"
 ]
 },
 {
-"label":"Lean In: Women, Work, and the Will to Lead",
+"label":"Lean In: Women, Work, and the Will to Lead: Sarah L's Pick",
 "isbns": [
 "9780385394260",
 "9780385349956",
@@ -544,7 +544,7 @@
 ]
 },
 {
-"label":"The Storied Life of A.J. Fikry",
+"label":"The Storied Life of A.J. Fikry: Sarah L's Pick",
 "isbns": [
 "9781410468895",
 "9781622313532",
@@ -556,7 +556,7 @@
 ]
 },
 {
-"label":"Where They Found Her",
+"label":"Where They Found Her: Sarah L's Pick",
 "isbns": [
 "9780062225467",
 "9781481534703",
@@ -564,20 +564,13 @@
 ]
 },
 {
-"label":"All the Flowers in Paris",
-"isbns": [
-"9781101885055",
-"9781643583471"
-]
-},
-{
-"label":"I'd Rather be Reading",
+"label":"I'd Rather be Reading: Sara M's Pick",
 "isbns": [
 "9780801072925"
 ]
 },
 {
-"label":"Little Fires Everywhere",
+"label":"Little Fires Everywhere: Sara M's Pick",
 "isbns": [
 "9780735224292",
 "9780735224308",
@@ -590,7 +583,7 @@
 ]
 },
 {
-"label":"Nine Perfect Strangers",
+"label":"Nine Perfect Strangers: Sara M's Pick",
 "isbns": [
 "9781250069825",
 "9781427299147",
@@ -602,7 +595,7 @@
 ]
 },
 {
-"label":"The Obituary Writer",
+"label":"The Obituary Writer: Sara M's Pick",
 "isbns": [
 "9780395981320",
 "9780393081428",
@@ -612,7 +605,7 @@
 ]
 },
 {
-"label":"The Path Made Clear",
+"label":"The Path Made Clear: Sara M's Pick",
 "isbns": [
 "9781250317025",
 "9781250307507",
@@ -621,7 +614,7 @@
 ]
 },
 {
-"label":"Believe Me",
+"label":"Believe Me: Toni's Pick",
 "isbns": [
 "9781101966310",
 "9780525633129",
@@ -631,7 +624,7 @@
 ]
 },
 {
-"label":"Chances Are...",
+"label":"Chances Are...: Toni's Pick",
 "isbns": [
 "9781101947746",
 "9780593153666",
@@ -642,20 +635,20 @@
 ]
 },
 {
-"label":"Free Food for Millionaires",
+"label":"Free Food for Millionaires: Toni's Pick",
 "isbns": [
 "9780446581080",
 "9781400104604"
 ]
 },
 {
-"label":"On Kingdom Mountain",
+"label":"On Kingdom Mountain: Toni's Pick",
 "isbns": [
 "9780618197231"
 ]
 },
 {
-"label":"Redhead by the Side of the Road",
+"label":"Redhead by the Side of the Road: Toni's Pick",
 "isbns": [
 "9780385694858",
 "9780525658429",
