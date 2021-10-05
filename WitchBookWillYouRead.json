@@ -1,0 +1,59 @@
+{
+    "label": "Witch Book Will You Read?",
+    "description": " Pick up a witchy read this October!",
+    "list": 
+  [
+{
+"label":"A discovery of witches",
+"isbns": [
+"9780142429112",
+"9781101475690",
+"9781461807728",
+"9780670022410"
+]
+},
+{
+"label":"The king of bones and wishes : a Witches of New Orleans novel",
+"isbns": [
+"9781503954311"
+]
+},
+{
+"label":"The Rules of Magic",
+"isbns": [
+"9781508238294",
+"9781508238294",
+"9781501137471"
+]
+},
+{
+"label":"A secret history of witches",
+"isbns": [
+"9780316508551"
+]
+},
+{
+"label":"The witch of painted sorrows : a novel",
+"isbns": [
+"9781476778068"
+]
+},
+{
+"label":"The witches : Salem, 1692",
+"isbns": [
+"9780316200608",
+"9780316365819",
+"9781611137156",
+"9781478936008"
+]
+},
+{
+"label":"The Witch's Heart",
+"isbns": [
+"9780593099940",
+"9780593099957",
+"9780593099957"
+]
+}
+]
+}
