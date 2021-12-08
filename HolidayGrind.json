@@ -1,0 +1,42 @@
+{
+    "label": "The Holiday Grind",
+    "description": "Does the Holiday season sometimes feel like a real grind? The to-do list can wait.  Relax and recharge for a while.  Kick off your shoes and dig into Cleo Coyle's cozy mysteries; coffee not included.",
+    "list": 
+  [
+{
+"label":"Brewed awakening",
+"isbns": [
+"9780451488879",
+"9781432862831"
+]
+},
+{
+"label":"Dead to the last drop",
+"isbns": [
+"9780425276099"
+]
+},
+{
+"label":"Espresso shot",
+"isbns": [
+"9780425230763",
+"9780425221778",
+"9781597228909"
+]
+},
+{
+"label":"Murder by mocha",
+"isbns": [
+"9780425241431",
+"9781410443885"
+]
+},
+{
+"label":"Through the grinder",
+"isbns": [
+"9781587248573",
+"9780425197141"
+]
+}
+]
+}
